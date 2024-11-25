@@ -33,9 +33,13 @@ Win系统，双击James_synthesis_tool.bat
 
 Mac 
 ::当前处于 jdk8 启动命令
+
 java -javaagent:James_synthesis_tool.jar  -Dfile.encoding=utf-8 -jar James_synthesis_tool.jar
+
 ::当前jdk 版本>11 启动命令
+
 java -javaagent:James_synthesis_tool.jar --module-path ./lib --add-modules javafx.controls,javafx.fxml -jar -Dfile.encoding=utf-8 -jar James_synthesis_tool.jar
+
 
 
 PS：工具正常使用是基于jdk 8（经测试jdk > 11 不再内置javafx）
