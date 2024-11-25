@@ -27,6 +27,22 @@
 ![James_synthesis_tool md631961 7511745](https://github.com/user-attachments/assets/57a28a0b-40ce-436c-bde5-3746ea894889)
 
 
+6、启动工具
+Win系统，双击James_synthesis_tool.bat
+![image](https://github.com/user-attachments/assets/25eb83bd-545e-4ee4-b1d5-28bf4bac15d7)
+Mac 
+::当前处于 jdk8 启动命令
+java -javaagent:James_synthesis_tool.jar  -Dfile.encoding=utf-8 -jar James_synthesis_tool.jar
+::当前jdk 版本>11 启动命令
+java -javaagent:James_synthesis_tool.jar --module-path ./lib --add-modules javafx.controls,javafx.fxml -jar -Dfile.encoding=utf-8 -jar James_synthesis_tool.jar
+
+
+PS：工具正常使用是基于jdk 8（经测试jdk > 11 不再内置javafx）
+如果发现打不开工具可以下载lib文件放于图示位置，启动命令修改为：
+java -javaagent:James_synthesis_tool.jar --module-path ./lib --add-modules javafx.controls,javafx.fxml -jar -Dfile.encoding=utf-8 -jar James_synthesis_tool.jar
+![image](https://github.com/user-attachments/assets/708b9d55-9401-4d6e-b6e4-d8b1dc9b9a6a)
+
+
 其他疑问：可联系作者
 ![James_synthesis_tool md631436 4842084](https://github.com/user-attachments/assets/dcdeb86e-e8b4-4439-956c-0e9a4e8f8e45)
 
