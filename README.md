@@ -30,6 +30,7 @@
 6、启动工具
 Win系统，双击James_synthesis_tool.bat
 ![image](https://github.com/user-attachments/assets/25eb83bd-545e-4ee4-b1d5-28bf4bac15d7)
+
 Mac 
 ::当前处于 jdk8 启动命令
 java -javaagent:James_synthesis_tool.jar  -Dfile.encoding=utf-8 -jar James_synthesis_tool.jar
