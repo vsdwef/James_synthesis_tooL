@@ -8,24 +8,25 @@
 
 
 2、漏洞管理
-
+![James_synthesis_tool md631563 7714092](https://github.com/user-attachments/assets/85af9de0-75b4-4366-a5d9-f3c984e308d7)
 
 
 对于POST 请求的漏洞，无论请求体是什么类型，直接从burpsuite中复制到请求体中，相比于编写 nuclei poc。这个会无脑一些！
-
+![James_synthesis_tool md632134 4902264](https://github.com/user-attachments/assets/d44b13c3-1c9d-4ebb-93de-bc59a1b8e405)
 
 
 3、指纹识别
-
+![James_synthesis_tool md631621 538837](https://github.com/user-attachments/assets/893007d2-9252-49de-9c13-71b14eaa52c5)
 
 
 4、漏洞识别
-
+![James_synthesis_tool md631811 5286314](https://github.com/user-attachments/assets/eaa4568b-7f9e-4dfc-bc79-936c07eec43b)
 
 
 5、配置页面
-
+![James_synthesis_tool md631961 7511745](https://github.com/user-attachments/assets/57a28a0b-40ce-436c-bde5-3746ea894889)
 
 
 其他疑问：可联系作者
+![James_synthesis_tool md631436 4842084](https://github.com/user-attachments/assets/dcdeb86e-e8b4-4439-956c-0e9a4e8f8e45)
 
