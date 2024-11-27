@@ -51,4 +51,6 @@ java -javaagent:James_synthesis_tool.jar --module-path ./lib --add-modules javaf
 其他疑问：可联系作者
 
 ![James_synthesis_tool md631436 4842084](https://github.com/user-attachments/assets/dcdeb86e-e8b4-4439-956c-0e9a4e8f8e45)
+James安全团队
+![image](https://github.com/user-attachments/assets/d7ab9c0b-94d3-406f-992f-2662d27be49a)
 
