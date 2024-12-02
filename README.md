@@ -16,18 +16,27 @@
 
 
 3、指纹识别
-![James_synthesis_tool md631621 538837](https://github.com/user-attachments/assets/893007d2-9252-49de-9c13-71b14eaa52c5)
+![image](https://github.com/user-attachments/assets/4f87e130-2b7a-4acd-ac90-34663126cb27)
+
 
 
 4、漏洞识别
-![James_synthesis_tool md631811 5286314](https://github.com/user-attachments/assets/eaa4568b-7f9e-4dfc-bc79-936c07eec43b)
+![image](https://github.com/user-attachments/assets/f56380a8-cb3f-406f-a3a2-0bf5d6ada0e9)
 
 
-5、配置页面
-![James_synthesis_tool md631961 7511745](https://github.com/user-attachments/assets/57a28a0b-40ce-436c-bde5-3746ea894889)
+
+5、联动指纹识别-漏洞自动攻击
+![image](https://github.com/user-attachments/assets/e3448be2-4854-47af-99cc-53983a205a21)
 
 
-6、启动工具
+
+
+6、配置页面
+![image](https://github.com/user-attachments/assets/4c5d5dcb-2353-42b4-9a7b-c22283a01c69)
+
+
+
+7、启动工具
 Win系统，双击James_synthesis_tool.bat
 ![image](https://github.com/user-attachments/assets/25eb83bd-545e-4ee4-b1d5-28bf4bac15d7)
 
