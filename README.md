@@ -56,6 +56,7 @@ PS：工具正常使用是基于jdk 8（经测试jdk > 11 不再内置javafx）
 java -javaagent:James_synthesis_tool.jar --module-path ./lib --add-modules javafx.controls,javafx.fxml -jar -Dfile.encoding=utf-8 -jar James_synthesis_tool.jar
 ![image](https://github.com/user-attachments/assets/708b9d55-9401-4d6e-b6e4-d8b1dc9b9a6a)
 
+免责声明：本工具仅为学习和合法的安全测试提供，禁止进行非法或未授权攻击，因非法或未授权攻击导致的一切后果均由使用者自行承担！与本工具无关
 
 其他疑问：可联系作者
 
