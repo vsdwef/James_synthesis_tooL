@@ -67,5 +67,6 @@ James安全团队
 ![image](https://github.com/user-attachments/assets/d7ab9c0b-94d3-406f-992f-2662d27be49a)
 
 欢迎加群交流
-![505547cf32534f13532d0f6e7793407](https://github.com/user-attachments/assets/fffd502f-a018-4b93-8a89-723d700c930d)
+![69004178d851a29b14e86297134fea2](https://github.com/user-attachments/assets/f7b42b47-e850-4d94-b561-a658f49abca0)
+
 
